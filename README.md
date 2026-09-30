@@ -25,11 +25,11 @@
 
 | 想知道 | 去哪 |
 |---|---|
-| 現在的任務與進度 | [`STATUS.md`](STATUS.md) |
-| 需求是什麼 | [`docs/requirements/`](docs/requirements/) |
-| 為什麼這樣決定 | [`docs/adr/`](docs/adr/) |
-| 實驗做了什麼、結果如何 | [`tasks/`](tasks/) |
-| 階段報告 | [`docs/reports/`](docs/reports/) |
+| 現在的任務與進度 | [`STATUS.md`](/STATUS.md) |
+| 需求是什麼 | [`docs/requirements/`](/docs/requirements/) |
+| 為什麼這樣決定 | [`docs/adr/`](/docs/adr/) |
+| 實驗做了什麼、結果如何 | [`tasks/`](/tasks/) |
+| 階段報告 | [`docs/reports/`](/docs/reports/) |
 
 ## 目錄結構
 
@@ -41,7 +41,7 @@
 │   ├── adr/                 # 決策紀錄
 │   └── reports/             # 階段報告
 ├── tasks/
-│   └── T-xxx-name/          # 一任務一資料夾
+│   └── T-xxx/               # 一任務一資料夾
 └── src/                     # 可能的原始碼
 ```
 
@@ -60,7 +60,7 @@ TODO：待 `src/` 的技術選型與目錄定案後補上。
 ## 連結
 
 - Hugging Face（權重與資料集）：TODO
-- 需求文件：[`docs/requirements/`](docs/requirements/)
+<!-- - 需求文件：[`docs/requirements/`](/docs/requirements/) -->
 
 權重與資料集放在 Hugging Face，不放在本 repo。
 含真人人臉的資料不公開。
