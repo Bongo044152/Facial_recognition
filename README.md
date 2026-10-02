@@ -7,7 +7,7 @@
 | 為什麼這樣決定 | [`docs/adr/`](/docs/adr/) |
 | 實驗做了什麼、結果如何 | [`tasks/`](/tasks/) |
 | 階段彙整 | [`docs/reports/`](/docs/reports/) |
-| 跟助教開會的會議紀錄 | [`docs/metting/`](/docs/metting/README.md) |
+| 跟助教開會的會議紀錄 | [`docs/meeting/`](/docs/meeting/README.md) |
 
 ## 目錄結構
 
@@ -17,7 +17,7 @@
 ├── docs/
 │   ├── requirements/        # 需求文件
 │   ├── adr/                 # 決策紀錄
-│   ├── metting/             # 跟助教開會的會議紀錄
+│   ├── meeting/             # 跟助教開會的會議紀錄
 │   └── reports/             # 階段彙整
 ├── tasks/
 │   └── T-xxx/               # 一任務一資料夾

@@ -2,9 +2,8 @@
 
 | 日期 | 紀錄 | 重點 |
 |---|---|---|
-| 2026-07-24 | [連結](https://hackmd.io/jLPpzXGbRO68tj9QXUJzwQ) | 助教認為我們論文閱讀能力 |
+| 2026-07-24 | [連結](https://hackmd.io/jLPpzXGbRO68tj9QXUJzwQ) | 助教認為我們論文閱讀能力需要再加強 |
 | 2026-07-31 | [連結](https://hackmd.io/@sheeeep/SkGN5Mqrzx) | 助教認為專題題目往應用面想，避免研究面題目 |
-| 2026-08-07 | [連結](https://hackmd.io/@sheeeep/r1o0Or7IMx) | 提出專題題目前，需要思考算力成本 |
 | 2026-08-07 | [連結](https://hackmd.io/@sheeeep/r1o0Or7IMx) | 提出專題題目前，需要思考算力成本 |
 | 2026-08-21 | [連結](https://hackmd.io/@sheeeep/HJDkznHwMe) | 助教期望每次報告論文都有一個主題可以給出來，效率要提高 |
 | 2026-09-09 | [連結](https://hackmd.io/g7Wga5LyTguuZZ4QNOntvg?view) | 專題提案涵蓋太多問題，需要考慮時間等相關因素 |
