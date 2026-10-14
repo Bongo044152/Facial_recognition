@@ -10,3 +10,4 @@
 | 2026-09-23 | [連結](https://hackmd.io/ZaKSAN1fQHCTbkd9VjkLjg?view) | 專題的貢獻在於創意與技術貢獻 |
 | 2026-09-30 | [連結](https://hackmd.io/EoyCtB-6SIKnf7GIt1r5cw?view) | 題目前調須更詳細，教授不希望重複造輪子 |
 | 2026-10-07 | [連結](https://hackmd.io/@sheeeep/ry6oeoXsfe) | 這次的專題題目有創意，但是技術貢獻方面需要加強 |
+| 2026-10-14 | [連結](https://hackmd.io/gRxyBdn8ThyInA5mb-MQTA?both) | 需加強實做（貢獻部份）、合理化架構、嘗試拓展應用範圍 |
