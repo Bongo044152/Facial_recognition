@@ -13,3 +13,4 @@
 | 2026-10-14 | [連結](https://hackmd.io/gRxyBdn8ThyInA5mb-MQTA?both) | 需加強實做（貢獻部份）、合理化架構、嘗試拓展應用範圍 |
 | 2026-10-21 | [連結](https://hackmd.io/@-tyGDUgeTkSH331olqJ2Jg/SJlsxD8hfl) | 拋棄新題目、加強實做（貢獻部份）、拓展應用範圍與修正一些小問題 |
 | 2026-10-28 | [連結](https://hackmd.io/@-tyGDUgeTkSH331olqJ2Jg/BkGpiO1azx) | 重新開始讀論文找題目、自行剔除掉不可行提案 |
+| 2026-11-11 | [連結](https://hackmd.io/@sheeeep/HyWBlzGCfe) | 討論專題題目可行性(讀書疲勞、AI影片竄改分析) |
