@@ -15,3 +15,4 @@
 | 2026-10-28 | [連結](https://hackmd.io/@-tyGDUgeTkSH331olqJ2Jg/BkGpiO1azx) | 重新開始讀論文找題目、自行剔除掉不可行提案 |
 | 2026-11-11 | [連結](https://hackmd.io/@sheeeep/HyWBlzGCfe) | 討論專題題目可行性(讀書疲勞、AI影片竄改分析) |
 | 2026-11-12 | [連結](https://hackmd.io/@c6jj3-YCT2GTWh_4-KyUxw/S1iFG9NRMx) | 第一次和教授開會，得到專題題目為延續做去年龍舟題目 |
+| 2026-11-18 | [連結](https://hackmd.io/@411321261/HJrSr53Czx) | 確認龍舟方向：水上資料等教授、室內資料跟學長姐拿 |
