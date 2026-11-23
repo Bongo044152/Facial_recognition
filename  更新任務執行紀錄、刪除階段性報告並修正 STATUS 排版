@@ -1,0 +1,10 @@
+ STATUS.md                                          |  21 [32m++[m[31m--[m
+ ...256\265\346\200\247\347\264\200\351\214\204.md" | 127 [31m---------------------[m
+ tasks/T-002/README.md                              |  27 [32m+++++[m
+ tasks/T-003/README.md                              |  37 [32m++++++[m
+ tasks/T-004/README.md                              |  32 [32m++++++[m
+ tasks/T-004/T-004.md                               |  39 [32m+++++[m[31m--[m
+ tasks/T-005/README.md                              |  34 [32m++++++[m
+ tasks/T-006/README.md                              |  38 [32m++++++[m
+ tasks/T-008/{T-008.md => T-009.md}                 |   0
+ 9 files changed, 206 insertions(+), 149 deletions(-)
